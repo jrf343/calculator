@@ -58,7 +58,7 @@ body {
 .operators {
     display: grid;
     grid-column: 5 / 6;
-    grid-row: 3 / 7;
+    grid-row: 3 / 8;
     grid-template-columns: subgrid;
     grid-template-rows: subgrid;
 }
